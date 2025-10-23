@@ -5,7 +5,8 @@
 <body>
 <h1><center>welcome to page</center></h1>
 <p>this is cover page</p>
-<h3>Registration</h3>
-<input type="text" placeholder="enter your name">
+<h2>open the page</h2>
+<h3>vinni</h3>
 </body>
 </html>
+

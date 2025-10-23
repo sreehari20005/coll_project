@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>vinni</title>
+<title>index page</title>
 </head>
 <body>
 <h1><center>welcome to page</center></h1>

@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>index page</title>
+</head>
+<body>
+<h1><center>welcome to page</center></h1>
+<p>this is cover page</p>
+<h3>Registration</h3>
+<input type="text" placeholder="enter your name">
+</body>
+</html>

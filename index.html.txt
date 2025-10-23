@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>vinni</title>
+</head>
+<body>
+<h1><center>welcome to page</center></h1>
+<p>this is cover page</p>
+<h2>open the page</h2>
+</body>
+</html>
